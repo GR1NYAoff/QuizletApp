@@ -1,0 +1,3 @@
+[submodule "QuizletWebAPI"]
+	path = QuizletWebAPI
+	url = https://github.com/GR1NYAoff/QuizletWebAPI
